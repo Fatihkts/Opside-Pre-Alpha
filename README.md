@@ -1,10 +1,7 @@
 # Opside-Pre-Alpha
 
-<h1 align="center"> Opside </h1>
-
 <h1 align="center"> Donanım </h1>
 
-# Ekibin önerdiği 
 4 CPU 16 RAM 500 GB SSD
 
 <h1 align="center"> Kurulum </h1>
